@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-## Tasks
+## Tasks:
 
 - Browse all the pages in `Links.md`. Atleast get an idea what it is all about.
 - Generate a social page plugin for each page from [here](https://developers.facebook.com/docs/plugins/page-plugin/)
