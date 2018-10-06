@@ -5,7 +5,7 @@
 
 ## Tasks
 
-- Browse all the pages in `Links.md`. Atleast get an idea what it is
+- Browse all the pages in `Links.md`. Atleast get an idea what it is all about.
 - Generate a social page plugin for each page from [here](https://developers.facebook.com/docs/plugins/page-plugin/)
   - Tabs : timeline
   - Height : 300
